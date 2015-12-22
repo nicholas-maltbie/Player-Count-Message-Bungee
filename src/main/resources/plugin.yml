@@ -1,0 +1,4 @@
+name: PlayerCountMessageBungee
+main: com.flyingblock.pcm.PcmMain
+version: 4.3
+author: flyguy23ndm
